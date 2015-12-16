@@ -1,0 +1,22 @@
+{
+  "name": "verse-eslint-config",
+  "version": "1.0.0",
+  "description": "Global linting configuration for all Verse javascript projects",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeteorMag/eslint-config.git"
+  },
+  "main": ".eslintrc",
+  "author": "Justin Anastos <justin.anastos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeteorMag/eslint-config/issues"
+  },
+  "homepage": "https://github.com/MeteorMag/eslint-config#readme",
+  "peerDependencies": {
+    "babel-eslint": "^5.0.0-beta6",
+    "eslint": "^1.10.3",
+    "eslint-plugin-babel": "^3.0.0",
+    "eslint-plugin-react": "^3.11.3"
+  }
+}

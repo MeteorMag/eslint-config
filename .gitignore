@@ -1,0 +1,14 @@
+*~
+
+*.map
+.DS_Store
+/.sass-cache
+/node_modules
+/web/css/main.css
+/web/dist
+/web/docs
+/web/js/*.js
+/web/vendor
+npm-debug.log
+.jshintrc
+/coverage
