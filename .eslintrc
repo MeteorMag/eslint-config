@@ -28,6 +28,7 @@
         "consistent-return": 0,
         "constructor-super": 2,
         "dot-location": [2, "property"],
+        "func-style": [2, "declaration", {"allowArrowFunctions": true}],
         "indent": 2,
         "jsx-quotes": [2, "prefer-double"],
         "new-cap": 0,
