@@ -125,6 +125,8 @@
                         "getChildContext",
                         "componentWillMount",
                         "componentDidMount",
+                        "componentDoneAppearing",
+                        "componentDoneEntering",
                         "componentWillReceiveProps",
                         "shouldComponentUpdate",
                         "componentWillUpdate",
